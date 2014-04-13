@@ -1,0 +1,35 @@
+@vitoc's life with software
+===============
+
+- 10/02/1991 Started BASIC programming
+- 1995 Started Visual Basic
+- ~1997 Won State Software Design Competition
+- 1999-2002 B. Eng (Class 1 Hons) Software Engineering, University of Sheffield
+- 8/11/2000 Dr Brain: A deterministic rule-based medical diagnosis expert system (PROLOG)
+- 2000 Hybridization of neural networks and genetic algorithm to produce a "living" mobot (MATLAB)
+- ~2002 AccuPing (C using Windows Socket NPI)
+- ~2002 TGV Newfoundland (A first person shooter game based on the Fly 3D game engine)
+- ~2002 Automatic gross classification of speech using energy in different frequency bands
+- 1999 Started Java coding
+- 2002-2007 MBA, Imperial College, University of London
+- 2003-2013 PHP
+- 01/10/2009 Graphic Manipulation with Gmagick. Article appeared in php|architect
+- ~2013 Objective-C and iOS
+- 2003-2008 Integrated Logistics Management System (ILMS)
+- 2003-2005 TN Accounting System
+- 2007-2008 Openspace Object Creation & Manipulation (OCAMS) Framework
+- ~2008 NU.nl
+- 2008-2009 Ladbrokes CMS
+- 2009-2014 Gmagick
+- ~2009 Cable and Wireless
+- 2009-2010 BBC PAL
+- ~2010 Foound
+- ~2012 Swaytrain
+- ~2011 Propular
+- ~2011 OU Annotate
+- ~2011 Sport Relief
+- 1/3/2011 Book published: PHP Development in the Cloud (co-authored with Ivo Jansch)
+- 12/2011 WeFeedback (World Food Programme API)
+- 2012-2013 BBC iVote
+- ~2013 AirChant
+- 2013-2014 Saved
